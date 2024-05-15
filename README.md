@@ -31,14 +31,7 @@ We have used Jupyter Notebook for visualization and making inferences of the dat
 - `frontend` folder consists the source files of the front-end of the web application
 - `server` consists of all the server code, along with the REST API for making the predictions based on the input data
 
-## Team Members
-- [Rishi Ravikumar](https://github.com/RRK1000)
-- [Aditya Vinod Kumar](https://github.com/adityavinodk)
 
-## OpenSource Contribution 
-We would like the developer community to contribute to this project - 
-- Move to real-time data prediction, which will be easier to scale in the future
-- Add more useful datasets which provide a larger idea of the usage of the appliances at households like seasonal data.
-- Provide visualitzation of the inferences made on the website through charts and plots.
 
-Send Pull Requests and we shall review them!
+
+
